@@ -1,0 +1,114 @@
+C:\Users\trup\Desktop\WindowsFormsApplication3\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\Users\trup\Desktop\WindowsFormsApplication3\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\Users\trup\Desktop\WindowsFormsApplication3\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\trup\Desktop\WindowsFormsApplication3\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\Users\trup\Desktop\WindowsFormsApplication3\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\Users\trup\Desktop\WFA 01\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\Users\trup\Desktop\WFA 01\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\Users\trup\Desktop\WFA 01\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\trup\Desktop\WFA 01\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\Users\trup\Desktop\WFA 01\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\Users\trup\Desktop\WFA 01\UsbLibrary\bin\Debug\UsbLibrary.XML
+I:\WFA\UsbLibrary\bin\Debug\UsbLibrary.dll
+I:\WFA\UsbLibrary\bin\Debug\UsbLibrary.pdb
+I:\WFA\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+I:\WFA\UsbLibrary\obj\Debug\UsbLibrary.dll
+I:\WFA\UsbLibrary\obj\Debug\UsbLibrary.pdb
+G:\WFA\UsbLibrary\bin\Debug\UsbLibrary.dll
+G:\WFA\UsbLibrary\bin\Debug\UsbLibrary.pdb
+G:\WFA\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+G:\WFA\UsbLibrary\obj\Debug\UsbLibrary.dll
+G:\WFA\UsbLibrary\obj\Debug\UsbLibrary.pdb
+H:\WFA\UsbLibrary\bin\Debug\UsbLibrary.dll
+H:\WFA\UsbLibrary\bin\Debug\UsbLibrary.pdb
+H:\WFA\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+H:\WFA\UsbLibrary\obj\Debug\UsbLibrary.dll
+H:\WFA\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\Users\Клишин.20-2\Desktop\WFA\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\Users\Клишин.20-2\Desktop\WFA\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\Users\Клишин.20-2\Desktop\WFA\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Клишин.20-2\Desktop\WFA\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\Users\Клишин.20-2\Desktop\WFA\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\Users\trup\Desktop\WFA\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\trup\Desktop\WFA\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\Users\trup\Desktop\WFA\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\Users\trup\Desktop\WFA\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\Users\trup\Desktop\WFA\UsbLibrary\obj\Debug\UsbLibrary.pdb
+D:\Work\SharpProjects\SoundToLight\UsbLibrary\bin\Debug\UsbLibrary.dll
+D:\Work\SharpProjects\SoundToLight\UsbLibrary\bin\Debug\UsbLibrary.pdb
+D:\Work\SharpProjects\SoundToLight\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\SharpProjects\SoundToLight\UsbLibrary\obj\Debug\UsbLibrary.dll
+D:\Work\SharpProjects\SoundToLight\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\SharpProjects\SoundToLight\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\SharpProjects\SoundToLight\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\SharpProjects\SoundToLight\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\SharpProjects\SoundToLight\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\SharpProjects\SoundToLight\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\Users\trup\Desktop\SoundToLight\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\Users\trup\Desktop\SoundToLight\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\Users\trup\Desktop\SoundToLight\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\trup\Desktop\SoundToLight\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\Users\trup\Desktop\SoundToLight\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\Users\trup\Desktop\HID Example\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\Users\trup\Desktop\HID Example\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\Users\trup\Desktop\HID Example\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\trup\Desktop\HID Example\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\Users\trup\Desktop\HID Example\UsbLibrary\obj\Debug\UsbLibrary.pdb
+G:\_Projects\HID Example\UsbLibrary\bin\Debug\UsbLibrary.dll
+G:\_Projects\HID Example\UsbLibrary\bin\Debug\UsbLibrary.pdb
+G:\_Projects\HID Example\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+G:\_Projects\HID Example\UsbLibrary\obj\Debug\UsbLibrary.dll
+G:\_Projects\HID Example\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\Users\Admin\Desktop\HID Example\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\Users\Admin\Desktop\HID Example\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\Users\Admin\Desktop\HID Example\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\HID Example\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\Users\Admin\Desktop\HID Example\UsbLibrary\obj\Debug\UsbLibrary.pdb
+F:\_Projects\HID Example\UsbLibrary\bin\Debug\UsbLibrary.dll
+F:\_Projects\HID Example\UsbLibrary\bin\Debug\UsbLibrary.pdb
+F:\_Projects\HID Example\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+F:\_Projects\HID Example\UsbLibrary\obj\Debug\UsbLibrary.dll
+F:\_Projects\HID Example\UsbLibrary\obj\Debug\UsbLibrary.pdb
+E:\SkyDrive\Projects\USB Mood Lamp\SoundToLight\UsbLibrary\bin\Debug\UsbLibrary.dll
+E:\SkyDrive\Projects\USB Mood Lamp\SoundToLight\UsbLibrary\bin\Debug\UsbLibrary.pdb
+E:\SkyDrive\Projects\USB Mood Lamp\SoundToLight\UsbLibrary\obj\Debug\UsbLibrary.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Projects\USB Mood Lamp\SoundToLight\UsbLibrary\obj\Debug\UsbLibrary.dll
+E:\SkyDrive\Projects\USB Mood Lamp\SoundToLight\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\SkyDrive\Projects\USB Mood Lamp\SoundToLight\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\SkyDrive\Projects\USB Mood Lamp\SoundToLight\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\SkyDrive\Projects\USB Mood Lamp\SoundToLight\UsbLibrary\obj\Debug\UsbLibrary.csprojResolveAssemblyReference.cache
+C:\SkyDrive\Projects\USB Mood Lamp\SoundToLight\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\SkyDrive\Projects\USB Mood Lamp\SoundToLight\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\Users\Andrew\SkyDrive\Projects\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\Users\Andrew\SkyDrive\Projects\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\Users\Andrew\SkyDrive\Projects\UsbLibrary\obj\Debug\UsbLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\SkyDrive\Projects\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\Users\Andrew\SkyDrive\Projects\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\Users\A_D\Vector\Firmware\ВМСТ.000000.000 - Имитатор платы считывания - TEST\AB424T-Simulator\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\Users\A_D\Vector\Firmware\ВМСТ.000000.000 - Имитатор платы считывания - TEST\AB424T-Simulator\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\Users\A_D\Vector\Firmware\ВМСТ.000000.000 - Имитатор платы считывания - TEST\AB424T-Simulator\UsbLibrary\obj\Debug\UsbLibrary.csprojResolveAssemblyReference.cache
+C:\Users\A_D\Vector\Firmware\ВМСТ.000000.000 - Имитатор платы считывания - TEST\AB424T-Simulator\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\Users\A_D\Vector\Firmware\ВМСТ.000000.000 - Имитатор платы считывания - TEST\AB424T-Simulator\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\Users\andre\Vector\Firmware\ВМСТ.000000.000 - Имитатор платы считывания - TEST\AB424T-Simulator\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\Users\andre\Vector\Firmware\ВМСТ.000000.000 - Имитатор платы считывания - TEST\AB424T-Simulator\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\Users\andre\Vector\Firmware\ВМСТ.000000.000 - Имитатор платы считывания - TEST\AB424T-Simulator\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\Users\andre\Vector\Firmware\ВМСТ.000000.000 - Имитатор платы считывания - TEST\AB424T-Simulator\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\VectorDrive\Firmware\ВМСТ.000000.000 - Имитатор платы считывания - TEST\AB424T-Simulator\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\VectorDrive\Firmware\ВМСТ.000000.000 - Имитатор платы считывания - TEST\AB424T-Simulator\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\VectorDrive\Firmware\ВМСТ.000000.000 - Имитатор платы считывания - TEST\AB424T-Simulator\UsbLibrary\obj\Debug\UsbLibrary.csprojResolveAssemblyReference.cache
+C:\VectorDrive\Firmware\ВМСТ.000000.000 - Имитатор платы считывания - TEST\AB424T-Simulator\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\VectorDrive\Firmware\ВМСТ.000000.000 - Имитатор платы считывания - TEST\AB424T-Simulator\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\Users\Andrew\Vector\Firmware\ВМСТ.000000.000 - Имитатор платы считывания - TEST\AB424T-Simulator\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\Users\Andrew\Vector\Firmware\ВМСТ.000000.000 - Имитатор платы считывания - TEST\AB424T-Simulator\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\Users\Andrew\Vector\Firmware\ВМСТ.000000.000 - Имитатор платы считывания - TEST\AB424T-Simulator\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\Users\Andrew\Vector\Firmware\ВМСТ.000000.000 - Имитатор платы считывания - TEST\AB424T-Simulator\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\Users\Andrew\Desktop\UsbLibrary-Example\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\Users\Andrew\Desktop\UsbLibrary-Example\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\Users\Andrew\Desktop\UsbLibrary-Example\UsbLibrary\obj\Debug\UsbLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\UsbLibrary-Example\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\Users\Andrew\Desktop\UsbLibrary-Example\UsbLibrary\obj\Debug\UsbLibrary.pdb
+\\NAS\Work\adelectronics\B5 - UsbLibrary - C# USB HID Library\UsbLibrary-Example\UsbLibrary\bin\Debug\UsbLibrary.dll
+\\NAS\Work\adelectronics\B5 - UsbLibrary - C# USB HID Library\UsbLibrary-Example\UsbLibrary\bin\Debug\UsbLibrary.pdb
+\\NAS\Work\adelectronics\B5 - UsbLibrary - C# USB HID Library\UsbLibrary-Example\UsbLibrary\obj\Debug\UsbLibrary.csprojResolveAssemblyReference.cache
+\\NAS\Work\adelectronics\B5 - UsbLibrary - C# USB HID Library\UsbLibrary-Example\UsbLibrary\obj\Debug\UsbLibrary.dll
+\\NAS\Work\adelectronics\B5 - UsbLibrary - C# USB HID Library\UsbLibrary-Example\UsbLibrary\obj\Debug\UsbLibrary.pdb

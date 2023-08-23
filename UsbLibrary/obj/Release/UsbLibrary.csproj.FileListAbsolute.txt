@@ -1,0 +1,41 @@
+I:\WFA 01\UsbLibrary\bin\Release\UsbLibrary.dll
+I:\WFA 01\UsbLibrary\bin\Release\UsbLibrary.pdb
+I:\WFA 01\UsbLibrary\obj\Release\ResolveAssemblyReference.cache
+I:\WFA 01\UsbLibrary\obj\Release\UsbLibrary.dll
+I:\WFA 01\UsbLibrary\obj\Release\UsbLibrary.pdb
+C:\Users\trup\Desktop\WFA 01\UsbLibrary\bin\Release\UsbLibrary.dll
+C:\Users\trup\Desktop\WFA 01\UsbLibrary\bin\Release\UsbLibrary.pdb
+C:\Users\trup\Desktop\WFA 01\UsbLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\trup\Desktop\WFA 01\UsbLibrary\obj\Release\UsbLibrary.dll
+C:\Users\trup\Desktop\WFA 01\UsbLibrary\obj\Release\UsbLibrary.pdb
+C:\SharpProjects\SoundToLight\UsbLibrary\bin\Release\UsbLibrary.dll
+C:\SharpProjects\SoundToLight\UsbLibrary\bin\Release\UsbLibrary.pdb
+C:\SharpProjects\SoundToLight\UsbLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\SharpProjects\SoundToLight\UsbLibrary\obj\Release\UsbLibrary.dll
+C:\SharpProjects\SoundToLight\UsbLibrary\obj\Release\UsbLibrary.pdb
+C:\Users\trup\Desktop\HID Example\UsbLibrary\bin\Release\UsbLibrary.dll
+C:\Users\trup\Desktop\HID Example\UsbLibrary\bin\Release\UsbLibrary.pdb
+C:\Users\trup\Desktop\HID Example\UsbLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\trup\Desktop\HID Example\UsbLibrary\obj\Release\UsbLibrary.dll
+C:\Users\trup\Desktop\HID Example\UsbLibrary\obj\Release\UsbLibrary.pdb
+F:\_Projects\HID Example\UsbLibrary\bin\Release\UsbLibrary.dll
+F:\_Projects\HID Example\UsbLibrary\bin\Release\UsbLibrary.pdb
+F:\_Projects\HID Example\UsbLibrary\obj\Release\ResolveAssemblyReference.cache
+F:\_Projects\HID Example\UsbLibrary\obj\Release\UsbLibrary.dll
+F:\_Projects\HID Example\UsbLibrary\obj\Release\UsbLibrary.pdb
+C:\Users\Admin\Desktop\HID Example\UsbLibrary\bin\Release\UsbLibrary.dll
+C:\Users\Admin\Desktop\HID Example\UsbLibrary\bin\Release\UsbLibrary.pdb
+C:\Users\Admin\Desktop\HID Example\UsbLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\HID Example\UsbLibrary\obj\Release\UsbLibrary.dll
+C:\Users\Admin\Desktop\HID Example\UsbLibrary\obj\Release\UsbLibrary.pdb
+C:\Users\Andrew\SkyDrive\Projects\UsbLibrary\bin\Release\UsbLibrary.dll
+C:\Users\Andrew\SkyDrive\Projects\UsbLibrary\bin\Release\UsbLibrary.pdb
+C:\Users\Andrew\SkyDrive\Projects\UsbLibrary\obj\Release\UsbLibrary.dll
+C:\Users\Andrew\SkyDrive\Projects\UsbLibrary\obj\Release\UsbLibrary.pdb
+C:\Users\Andrew\SkyDrive\Projects\UsbLibrary\bin\Release\UsbLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Andrew\SkyDrive\Projects\UsbLibrary\bin\Release\UsbLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Andrew\SkyDrive\Projects C#\UsbLibrary\bin\Release\UsbLibrary.dll
+C:\Users\Andrew\SkyDrive\Projects C#\UsbLibrary\bin\Release\UsbLibrary.pdb
+C:\Users\Andrew\SkyDrive\Projects C#\UsbLibrary\obj\Release\UsbLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\SkyDrive\Projects C#\UsbLibrary\obj\Release\UsbLibrary.dll
+C:\Users\Andrew\SkyDrive\Projects C#\UsbLibrary\obj\Release\UsbLibrary.pdb
